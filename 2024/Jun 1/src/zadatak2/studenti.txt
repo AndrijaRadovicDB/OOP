@@ -1,0 +1,5 @@
+Pera, Peric, 10, 10, 10, 9
+Mika, Mikic, 10, 9, 9, 9
+Mina, Minic, 9, 9, 9
+Janko, Jankovic, 6, 6, 6, 8, 9
+Vuk, Vukovic, 7, 6, 6, 7, 6, 10
